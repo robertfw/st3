@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"ColorSchemeSelector",
+		"Jedi - Python autocompletion",
+		"knockdown",
+		"Python Checker",
+		"SideBarEnhancements",
+		"SublimeREPL"
+	]
+}

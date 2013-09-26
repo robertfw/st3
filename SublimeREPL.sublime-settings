@@ -1,0 +1,7 @@
+{
+    "python_virtualenv_paths": [
+        "~/.pythonbrew/venvs/Python-2.5/",
+        "~/.pythonbrew/venvs/Python-2.7.4/",
+        "~/.pythonbrew/venvs/Python-3.3.1/"
+    ],
+}
