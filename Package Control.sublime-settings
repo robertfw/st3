@@ -1,12 +1,15 @@
 {
 	"installed_packages":
 	[
+		"Anaconda",
 		"AutoPEP8",
 		"ColorSchemeSelector",
-		"Jedi - Python autocompletion",
 		"knockdown",
-		"Python Checker",
+		"Markdown Preview",
 		"SideBarEnhancements",
-		"SublimeREPL"
+		"SnippetMaker",
+		"sublime-github",
+		"SublimeREPL",
+		"Sublimerge Pro"
 	]
 }

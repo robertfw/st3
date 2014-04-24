@@ -1,4 +1,9 @@
 [
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+    { "keys": ["ctrl+t"], "command": "new_file" },
+
+    {"command": "anaconda_goto", "keys": ["alt+g"]},
+    {"command": "anaconda_find_usages", "keys": ["alt+f"]},
+    {"command": "anaconda_doc", "keys": ["alt+d"]}
 ]

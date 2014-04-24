@@ -1,0 +1,9 @@
+{
+    "pep8_ignore":
+    [
+        "E501",
+        "E503"
+    ],
+    "complete_parameters": true,
+    "complete_all_parameters": false,
+}

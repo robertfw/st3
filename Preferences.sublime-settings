@@ -1,7 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_white_space": "all",
 	"font_size": 14,
 	"ignored_packages":
@@ -13,5 +13,6 @@
 		79
 	],
 	"shift_tab_unindent": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
